@@ -1,1 +1,0 @@
-The assignment work can be found in the starter code folder. I also noticed that the cluster plots and cumulative plots did not appear in github, so I submitted screenshots of those running on my computer as well.
